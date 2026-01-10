@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cookit",
+      "sha256_cert_fingerprints": [
+        "87:EB:DC:28:E6:80:89:90:FB:96:C3:5A:C2:5E:8D:4D:2C:AC:AC:DA:1A:BB:62:53:25:F0:1E:4F:0A:F3:A3:BF"
+      ]
+    }
+  }
+]

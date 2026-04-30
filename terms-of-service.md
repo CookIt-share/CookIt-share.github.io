@@ -1,3 +1,7 @@
+---
+layout: default
+title: Terms of Use
+---
 # CookIt Terms of Use
 
 **Last updated: April 30, 2026**

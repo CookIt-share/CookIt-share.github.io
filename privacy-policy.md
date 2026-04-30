@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # CookIt Privacy Policy
 
 **Last updated: April 30, 2026**

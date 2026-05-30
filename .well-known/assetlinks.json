@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "com.cookit",
       "sha256_cert_fingerprints": [
-        "87:EB:DC:28:E6:80:89:90:FB:96:C3:5A:C2:5E:8D:4D:2C:AC:AC:DA:1A:BB:62:53:25:F0:1E:4F:0A:F3:A3:BF"
+        "87:EB:DC:28:E6:80:89:90:FB:96:C3:5A:C2:5E:8D:4D:2C:AC:AC:DA:1A:BB:62:53:25:F0:1E:4F:0A:F3:A3:BF",
+        "D1:26:89:0C:BC:26:F9:C6:C1:35:7A:93:42:42:CD:85:60:BF:B3:23:62:00:15:1E:D6:55:3C:DE:D0:64:5A:65",
+        "06:4A:67:BE:6A:9B:5C:C1:BE:A8:95:D8:AB:4C:70:01:FC:20:AD:DA:A7:76:87:B7:F9:7F:EE:B0:1E:23:B3:74"
       ]
     }
   }
